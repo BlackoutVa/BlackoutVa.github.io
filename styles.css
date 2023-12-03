@@ -1,0 +1,72 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.socials img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+}
+.blackout {
+    color:crimson;
+    text-align:center;
+    font-size:55px;
+}
+.Silly{
+    text-align:center;
+    font-size:xx-large
+}
+.Abc{
+    color:darkred;
+    font-size:xx-large;
+    text-align:center
+}
+.ccc{
+    color:whitesmoke;
+    font-size:larger;
+    text-align:center
+}
